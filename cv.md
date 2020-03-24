@@ -39,5 +39,8 @@ https://github.com/Jatzek3/OOP_branching_manager
 https://github.com/Jatzek3/Adventure-game
 https://github.com/Jatzek3/OOD_coinflip
 
+
+## English
+
 I am proficient in English, and been learning it from very young age. At tests I score C2 mostly, but i don’t think it's fair. Writing for me isn't as easy for me as I would like it to be and I make many mistakes also don't know grammar very well. On the other side i can communicate very fluently and my comprehension in either written and spoken english is on a very high level.
 
